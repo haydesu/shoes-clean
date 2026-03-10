@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
 <meta charset="UTF-8">
@@ -175,12 +174,10 @@ width:var(--size); height:var(--size); left:var(--left); animation:bubbleFall 6s
 
 <!-- Cara pesan -->
 <section id="how-to-order">
-    ...
   </section>
   
  <!-- Cara pesan -->
 <section id="how-to-order">
-    ...
   </section>
   
 <section id="how-to-order">
