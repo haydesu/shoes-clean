@@ -170,8 +170,6 @@ width:var(--size); height:var(--size); left:var(--left); animation:bubbleFall 6s
         <div class="testimonial"><p>"bagus banget hasilnya, harga juga ter worth it, bisa pick up & delivery"</p><span>–Nabilla Andini</span></div>
         <div class="testimonial"><p>"Bagus ada pelayanan antar jemput👍🏻👍🏻👍🏻👍🏻👍🏻"</p><span>–Anna Suryani</span></div>
         <div class="testimonial"><p>"Bakal langganan disini pelayanan oke banget"</p><span>–Yuniar iriana</span></div>
-
-
     </div>
 </section>
 
